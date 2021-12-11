@@ -1,0 +1,1 @@
+Copy con plik2.txt // komenda
